@@ -1,0 +1,17 @@
+.thumbs {
+		display: flex;
+		background-color: red;
+	}
+.thumbs > div{
+		width: 100%;
+	}	
+.my-gallery{
+		display: flex;
+		flex-wrap: wrap;
+	}
+.my-gallery figure{
+		margin: 10px;
+	}
+.my-gallery figure img{
+		width: 100%;
+	}

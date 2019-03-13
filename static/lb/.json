@@ -1,0 +1,16 @@
+{
+	"message":[
+			{
+				"url":"./img/li.jpg","img":"http://localhost:8080/static/lb/img/l1.jpg"
+			},
+			{
+				"url":"./img/li.jpg","img":"http://localhost:8080/static/lb/img/l2.jpg"
+			},
+			{
+				"url":"./img/li.jpg","img":"http://localhost:8080/static/lb/img/l3.jpg"
+			},
+			{
+				"url":"./img/li.jpg","img":"http://localhost:8080/static/lb/img/l4.jpg"
+			}
+		]
+}

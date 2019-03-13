@@ -1,0 +1,20 @@
+{
+	"status":"0",
+	"message":[
+			{
+				"src":"http://localhost:8080/static/lb/img/sj1.jpg"
+			},
+			{
+				"src":"http://localhost:8080/static/lb/img/sj2.jpg"
+			},
+			{
+				"src":"http://localhost:8080/static/lb/img/sj3.jpg"
+			},
+			{
+				"src":"http://localhost:8080/static/lb/img/sj4.jpg"
+			},
+			{
+				"src":"http://localhost:8080/static/lb/img/sj5.jpg"
+			}
+		]
+}

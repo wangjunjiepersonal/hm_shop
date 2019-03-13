@@ -1,0 +1,61 @@
+{
+	"status":"0",
+	"message":[
+			{
+				"cou":"1",
+				"id":"4",
+				"title":"小米8 6GB+128GB 金色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj2.jpg"
+			},
+			{
+				"cou":"2",
+				"id":"5",
+				"title":"小米MIX 2S 6GB+128GB 白色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj5.jpg"
+			},
+			{
+				"cou":"3",
+				"id":"6",
+				"title":"小米8 6GB+64GB 黑色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj3.jpg"
+			},
+			{
+				"cou":"4",
+				"id":"7",
+				"title":"小米8 6GB+128GB 金色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj2.jpg"
+			},
+			{
+				"cou":"5",
+				"id":"8",
+				"title":"小米8 6GB+64GB 黑色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj1.jpg"
+			},
+			{
+				"cou":"6",
+				"id":"9",
+				"title":"小米8 6GB+128GB 金色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj5.jpg"
+			},
+			{
+				"cou":"7",
+				"id":"10",
+				"title":"小米MIX 2S 6GB+128GB 白色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj3.jpg"
+			},
+			{
+				"cou":"8",
+				"id":"11",
+				"title":"小米8 6GB+128GB 金色",
+				"sell_price":"1266",
+				"thumb_path":"http://localhost:8080/static/lb/img/sj2.jpg"
+			}
+		]
+}

@@ -1,0 +1,23 @@
+{
+	"status":"0",
+	"message":[
+			{
+				"id":"0",
+				"title":"小米9 SE索尼4800万三摄，骁龙712",
+				"add_time":"2015-04-16T04:05:34.000Z",
+				"goods_no":"FD5689121",
+				"stock_quantity":"20",
+				"market_price":"565",
+				"sell_price":"215"
+			},
+			{
+				"id":"1",
+				"title":"小米9 SE索尼4800万三摄，骁龙712",
+				"add_time":"2015-04-16T04:05:34.000Z",
+				"goods_no":"FD5689121",
+				"stock_quantity":"20",
+				"market_price":"565",
+				"sell_price":"215"
+			}
+		]
+}
